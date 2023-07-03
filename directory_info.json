@@ -1,0 +1,77 @@
+[
+    {
+        "name": "./Contain",
+        "type": "Directory",
+        "size": 10547960
+    },
+    {
+        "name": "./Contain\\HW_1",
+        "type": "Directory",
+        "size": 4847681
+    },
+    {
+        "name": "File1.png",
+        "type": "File",
+        "size": 1665030
+    },
+    {
+        "name": "File2.png",
+        "type": "File",
+        "size": 1596242
+    },
+    {
+        "name": "File3.png",
+        "type": "File",
+        "size": 1586409
+    },
+    {
+        "name": "./Contain\\HW_2",
+        "type": "Directory",
+        "size": 273585
+    },
+    {
+        "name": "HW_2.png",
+        "type": "File",
+        "size": 273585
+    },
+    {
+        "name": "./Contain\\HW_3",
+        "type": "Directory",
+        "size": 137161
+    },
+    {
+        "name": "HW_3.png",
+        "type": "File",
+        "size": 137161
+    },
+    {
+        "name": "./Contain\\HW_4",
+        "type": "Directory",
+        "size": 1936447
+    },
+    {
+        "name": "File1.png",
+        "type": "File",
+        "size": 972184
+    },
+    {
+        "name": "File2.png",
+        "type": "File",
+        "size": 964263
+    },
+    {
+        "name": "./Contain\\HW_5",
+        "type": "Directory",
+        "size": 3353086
+    },
+    {
+        "name": "adminer.png",
+        "type": "File",
+        "size": 1646822
+    },
+    {
+        "name": "Compose.png",
+        "type": "File",
+        "size": 1706264
+    }
+]
